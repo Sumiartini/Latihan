@@ -17,10 +17,17 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/logout', function () {
+    Auth::logout();
+
+    return redirect('/');
+});
+
+
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/dashboard', 'HomeController@dashboard')->name('dashboard');
 
-Route::middleware('role:admin')->get('/dashboard', function(){
-	return 'dashboard';
-})->name('dashboard');
+
