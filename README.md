@@ -8,6 +8,7 @@
 </p>
 
 ## Repo Latihan guyss
+##Asslamu'alaikum 
 
 ## About Laravel
 
