@@ -8,7 +8,8 @@
 </p>
 
 ## Repo Latihan guyss
-##Asslamu'alaikum 
+##Asslammu'alaikum, ini repo latihan guys.
+
 
 ## About Laravel
 
