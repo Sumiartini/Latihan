@@ -9,7 +9,7 @@
 
 ## Repo Latihan guyss
 ##Asslammu'alaikum, ini repo latihan guys.
-
+waalaikumsalam
 
 ## About Laravel
 
