@@ -1,11 +1,11 @@
 # Panduan Penggunaan Git
 
-* [Mengunduh repository ke dalam komputer](http://https://github.com/datascienceid/README#mengunduh-repository)
-* [Memperbarui repository yang telah diunduh](https://github.com/datascienceid/README#memperbarui-repository)
-* [Mengunggah perubahan ke dalam repository](https://github.com/datascienceid/README#mengunggah-perubahan)
-* [Menghapus file](https://github.com/datascienceid/README#menghapus-file)
-* [Branching](https://github.com/datascienceid/README#branching)
-* [Perintah tambahan](https://github.com/datascienceid/README#perintah-tambahan)
+* [Mengunduh repository ke dalam komputer](https://github.com/Sumiartini/Latihan/blob/master/README.md#mengunduh-repository)
+* [Memperbarui repository yang telah diunduh](https://github.com/Sumiartini/Latihan/blob/master/README.md#memperbarui-repository)
+* [Mengunggah perubahan ke dalam repository](https://github.com/Sumiartini/Latihan/blob/master/README.md#mengunggah-perubahan)
+* [Menghapus file](https://github.com/Sumiartini/Latihan/blob/master/README.md#menghapus-file)
+* [Branching](https://github.com/Sumiartini/Latihan/blob/master/README.md#branching)
+* [Perintah tambahan](https://github.com/Sumiartini/Latihan/blob/master/README.md#perintah-tambahan)
 
 ## Mengunduh Repository
 
