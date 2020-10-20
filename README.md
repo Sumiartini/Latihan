@@ -1,4 +1,5 @@
 ![nama](https://github.com/Sumiartini/Latihan/blob/master/public/readme_img/.env.PNG)
+![nama](https://github.com/Sumiartini/Latihan/blob/master/public/readme_img/akhir%20composer%20install.PNG)
 
 # Panduan Penggunaan Git
 
