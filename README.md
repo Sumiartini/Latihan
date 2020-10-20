@@ -1,3 +1,5 @@
+![nama](https://github.com/Sumiartini/Latihan/blob/master/public/readme_img/.env.PNG)
+
 # Panduan Penggunaan Git
 
 * [Mengunduh repository ke dalam komputer](https://github.com/Sumiartini/Latihan/blob/master/README.md#mengunduh-repository)
